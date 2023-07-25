@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "jobhunt",
-    "slug": "jobhunt"
+    "slug": "jobhunt",
+    "extra": {
+      "eas": {
+        "projectId": "2efea453-6880-4699-a315-e42608a4f60b"
+      }
+    },
+    "owner": "amber-bansal"
   }
 }
